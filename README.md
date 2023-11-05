@@ -5,7 +5,7 @@
 # Barcelona Rent and Noise Analysis
 
 <p align="center">
-	<img src="https://www.spain.info/.content/imagenes/cabeceras-grandes/cataluna/park-guell-barcelona-s-305364611.jpg" alt="200" width="400"/>
+	<img src="https://a.cdn-hotels.com/gdcs/production81/d1983/1441d9b5-d0e6-4230-9923-646d58ba66d8.jpg" alt="200" width="400"/>
 </p>
 
 ## Project Overview
