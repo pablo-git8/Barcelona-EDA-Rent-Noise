@@ -1,4 +1,12 @@
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 # Barcelona Rent and Noise Analysis
+
+<p align="center">
+	<img src="https://www.spain.info/.content/imagenes/cabeceras-grandes/cataluna/park-guell-barcelona-s-305364611.jpg" alt="200" width="400"/>
+</p>
 
 ## Project Overview
 This project conducts a thorough exploratory data analysis of the interconnection between rental prices and noise levels across different neighborhoods in Barcelona. Leveraging a combination of datasets from CSV files and the Ajuntament de Barcelona Open Data Portal, we visualize patterns, perform principal component analysis, and derive insights into the urban landscape's influence on living expenses.
@@ -10,7 +18,7 @@ This project conducts a thorough exploratory data analysis of the interconnectio
 - **Scikit-learn**: Specifically, PCA for dimensionality reduction and StandardScaler for feature standardization.
 
 ## Data Sources
-- **CSV Files**: Structured data files for initial dataset.
+- **CSV Files**: Structured data files for initial dataset included in the repository.
 - **[Open Data Portal (Ajuntament de Barcelona)](https://opendata-ajuntament.barcelona.cat/data/es/dataset)**: API endpoints providing real-time access to urban data.
 
 ## Setup and Installation
