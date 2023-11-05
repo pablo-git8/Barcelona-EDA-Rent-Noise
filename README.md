@@ -19,6 +19,14 @@ This project conducts a thorough exploratory data analysis of the interconnectio
 - **PCA**: Executing Principal Component Analysis to understand data structure and variance.
 - **Future Directions**: Outlining subsequent steps to enhance our analysis.
 
+## Insights
+
+The visual representation below illustrates the correlation between average rental prices and mean noise levels within a specific district, delineated by neighborhoods. For an in-depth exploration and understanding of this relationship, I invite you to delve into the accompanying Jupyter notebook in this repo!
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/pablo-git8/Barcelona-EDA-Rent-Noise/main/images/avg_noise_vs_price.png" alt="200" width="400"/>
+</p>
+
 
 ## Technologies Used
 - **Python**: For all data ingestion, processing, and exploratory data analysis.
